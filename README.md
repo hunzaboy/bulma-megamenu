@@ -66,7 +66,7 @@ Integration
 ```
 @charset "utf-8"
 
-@import "ribbon.scss"
+@import "megamenu.scss"
 ```
 At the end of the `bulma.sass` file, add this line: `@import "sass/extensions/_all"`
 
