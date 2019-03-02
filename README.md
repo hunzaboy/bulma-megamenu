@@ -60,7 +60,7 @@ Integration
 - Clone the [bulma repo](https://github.com/jgthms/bulma)
 - Under the `sass` folder, create a new folder called `extensions`
 - In this new folder, create a new file `megamenu.scss`
-- Copy the code form the `bulma-megamenu repo`'s [megamenu.scss](https://raw.githubusercontent.com/hunzaboy/bulma-megamenu/master/megamenu.scss) file into your new file
+- Copy the code from the `bulma-megamenu repo`'s [megamenu.scss](https://raw.githubusercontent.com/hunzaboy/bulma-megamenu/master/megamenu.scss) file into your new file
 - In the same folder create a new file `_all.sass` (this is not required, but will help when you add more extensions)
 - In this file add this code:
 ```
