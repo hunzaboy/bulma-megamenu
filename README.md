@@ -1,5 +1,8 @@
+# update
+Works with the current latest version 0.7.5
+
 # bulma-megamenu
-Bulma extension to make Mega Menus
+Bulma extension to make Mega Menu. 
 
 <a href="https://codepen.io/hunzaboy/pen/yoPKQW">Click here for Codepen Demo</a>
 
