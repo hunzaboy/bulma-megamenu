@@ -1,5 +1,5 @@
 # update
-Works with the current latest version 0.7.5
+Works with the current latest version 0.9.1
 
 # bulma-megamenu
 Bulma extension to make Mega Menu. 
@@ -7,7 +7,7 @@ Bulma extension to make Mega Menu.
 <a href="https://codepen.io/hunzaboy/pen/yoPKQW">Click here for Codepen Demo</a>
 
 
-[![mega-menu.jpg](https://s11.postimg.org/64s8v1ezn/mega-menu.jpg)](https://postimg.org/image/tvrmd5f6n/)
+![mega-menu.jpg](https://bulma.io/images/extensions/bulma-megamenu.png)
 
 Usage
 ---
